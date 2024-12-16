@@ -1,0 +1,7 @@
+zhipuai
+gradio
+tqdm
+langchain
+langchain-community
+pyMuPDF
+qdrant
